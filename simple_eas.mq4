@@ -22,6 +22,11 @@ Add Stoploss => Profit > $10 => No lossing trade
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 #property strict
+
+
+
+
+
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
